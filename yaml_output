@@ -1,0 +1,10 @@
+- Kalos-route-2:
+    main:
+      Tall Grass:
+      - {form: default, game: both, pokemon: Bunnelby, rarity: average}
+      - {form: default, game: Y, pokemon: Caterpie, rarity: rare}
+      - {form: default, game: both, pokemon: Fletchling, rarity: average}
+      - {form: default, game: both, pokemon: Pidgey, rarity: rare}
+      - {form: default, game: both, pokemon: Scatterbug, rarity: average}
+      - {form: default, game: X, pokemon: Weedle, rarity: rare}
+      - {form: default, game: both, pokemon: Zigzagoon, rarity: rare}
