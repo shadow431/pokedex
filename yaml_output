@@ -239,3 +239,20 @@
       - {form: '', game: both, name: helioptile, rarity: average}
       - {form: '', game: both, name: hippopotas, rarity: frequent}
       - {form: '', game: both, name: sandile, rarity: frequent}
+- glittering-cave:
+    main:
+      cracked-rock:
+      - {form: '', game: both, name: dwebble, rarity: frequent}
+      - {form: '', game: both, name: onix, rarity: average}
+      cave:
+      - {form: '', game: both, name: cubone, rarity: average}
+      - {form: '', game: both, name: kangaskhan, rarity: almost-never}
+      - {form: '', game: both, name: lunatone, rarity: rare}
+      - {form: '', game: both, name: machop, rarity: average}
+      - {form: '', game: both, name: mawile, rarity: almost-never}
+      - {form: '', game: both, name: onix, rarity: rare}
+      - {form: '', game: both, name: rhydon, rarity: rare}
+      - {form: '', game: both, name: solrock, rarity: rare}
+      ambush:
+      - {form: '', game: both, name: ferroseed, rarity: average}
+      - {form: '', game: both, name: woobat, rarity: frequent}
