@@ -214,3 +214,23 @@
       - {form: '', game: y, name: dragalge, rarity: average}
       - {form: '', game: both, name: qwilfish, rarity: frequent}
       - {form: '', game: x, name: starmie, rarity: almost-never}
+- ambrette-town:
+    main:
+      cracked-rock:
+      - {form: '', game: both, name: binacle, rarity: average}
+      - {form: '', game: both, name: dwebble, rarity: frequent}
+      water-surface:
+      - {form: '', game: both, name: tentacool, rarity: frequent}
+      - {form: '', game: both, name: wailmer, rarity: average}
+      old-rod:
+      - {form: '', game: both, name: luvdisc, rarity: frequent}
+      good-rod:
+      - {form: '', game: x, name: clauncher, rarity: frequent}
+      - {form: '', game: both, name: horsea, rarity: average}
+      - {form: '', game: y, name: skrelp, rarity: frequent}
+      super-rod:
+      - {form: '', game: x, name: clawitzer, rarity: average}
+      - {form: '', game: y, name: dragalge, rarity: average}
+      - {form: '', game: both, name: relicanth, rarity: frequent}
+      - {form: '', game: both, name: seadra, rarity: almost-never}
+
