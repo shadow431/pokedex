@@ -23,3 +23,30 @@
       - {form: '', game: both, name: scatterbug, rarity: average}
       - {form: '', game: x, name: weedle, rarity: average}
       - {form: '', game: y, name: weedle, rarity: rare}
+- kalos-route-3:
+    main:
+      tall-grass:
+      - {form: '', game: both, name: azurill, rarity: rare}
+      - {form: '', game: both, name: bidoof, rarity: average}
+      - {form: '', game: both, name: bunnelby, rarity: average}
+      - {form: '', game: both, name: burmy, rarity: rare}
+      - {form: '', game: both, name: dunsparce, rarity: almost-never}
+      - {form: '', game: both, name: fletchling, rarity: average}
+      - {form: '', game: both, name: pidgey, rarity: rare}
+      - {form: '', game: both, name: pikachu, rarity: almost-never}
+      old-rod:
+      - {form: '', game: both, name: magikarp, rarity: frequent}
+      good-rod:
+      - {form: '', game: both, name: corphish, rarity: average}
+      - {form: '', game: both, name: goldeen, rarity: frequent}
+      super-rod:
+      - {form: '', game: both, name: crawdaunt, rarity: almost-never}
+      - {form: '', game: both, name: gyarados, rarity: frequent}
+      - {form: '', game: both, name: seaking, rarity: average}
+      water-surface:
+      - {form: '', game: both, name: marill, rarity: average}
+      - {form: '', game: both, name: masquerain, rarity: frequent}
+- santalune-city:
+    main:
+      trade:
+      - {form: '', game: both, name: farfetchd, rarity: frequent}
