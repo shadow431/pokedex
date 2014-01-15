@@ -82,3 +82,23 @@
       - {form: '', game: both, name: gyarados, rarity: frequent}
       - {form: '', game: both, name: seaking, rarity: average}
       - {form: '', game: both, name: sharpedo, rarity: almost-never}
+- kalos-route-4:
+    main:
+      yellow-flowers:
+      - {form: '', game: both, name: budew, rarity: rare}
+      - {form: '', game: both, name: combee, rarity: average}
+      - {form: orange, game: both, name: flabebe, rarity: almost-never}
+      - {form: white, game: both, name: flabebe, rarity: almost-never}
+      - {form: yellow, game: both, name: flabebe, rarity: average}
+      - {form: '', game: both, name: ledyba, rarity: rare}
+      - {form: '', game: both, name: ralts, rarity: almost-never}
+      - {form: '', game: both, name: skitty, rarity: rare}
+      red-flowers:
+      - {form: '', game: both, name: budew, rarity: rare}
+      - {form: '', game: both, name: combee, rarity: rare}
+      - {form: orange, game: both, name: flabebe, rarity: almost-never}
+      - {form: red, game: both, name: flabebe, rarity: average}
+      - {form: white, game: both, name: flabebe, rarity: almost-never}
+      - {form: '', game: both, name: ledyba, rarity: average}
+      - {form: '', game: both, name: ralts, rarity: almost-never}
+      - {form: '', game: both, name: skitty, rarity: rare}
