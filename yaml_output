@@ -8,3 +8,18 @@
       - {form: '', game: both, name: scatterbug, rarity: average}
       - {form: '', game: x, name: weedle, rarity: rare}
       - {form: '', game: both, name: zigzagoon, rarity: rare}
+- santalune-forest:
+    main:
+      tall-grass:
+      - {form: '', game: x, name: caterpie, rarity: rare}
+      - {form: '', game: y, name: caterpie, rarity: average}
+      - {form: '', game: both, name: fletchling, rarity: rare}
+      - {form: '', game: x, name: kakuna, rarity: almost-never}
+      - {form: '', game: y, name: metapod, rarity: almost-never}
+      - {form: '', game: both, name: panpour, rarity: rare}
+      - {form: '', game: both, name: pansage, rarity: rare}
+      - {form: '', game: both, name: pansear, rarity: rare}
+      - {form: '', game: both, name: pikachu, rarity: rare}
+      - {form: '', game: both, name: scatterbug, rarity: average}
+      - {form: '', game: x, name: weedle, rarity: average}
+      - {form: '', game: y, name: weedle, rarity: rare}
