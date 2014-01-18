@@ -191,10 +191,10 @@
       - {form: '', game: both, name: spoink, rarity: rare}
       - {form: '', game: both, name: zangoose, rarity: rare}
       horde:
-      - {form: '', game: y, name: '{seviper:4,zangoose:1}', rarity: average}
-      - {form: '', game: both, name: '{taillow:5}', rarity: rare}
-      - {form: '', game: both, name: '{wingull:5}', rarity: frequent}
-      - {form: '', game: x, name: '{zangoose:4,seviper:1}', rarity: average}
+      - {form: '', game: y, name: '{seviper: 4, zangoose: 1}', rarity: average}
+      - {form: '', game: both, name: '{taillow: 5}', rarity: rare}
+      - {form: '', game: both, name: '{wingull: 5}', rarity: frequent}
+      - {form: '', game: x, name: '{zangoose: 4, seviper: 1}', rarity: average}
       cracked-rock:
       - {form: '', game: both, name: binacle, rarity: average}
       - {form: '', game: both, name: dwebble, rarity: frequent}
@@ -278,3 +278,19 @@
       - {form: '', game: y, name: dragalge, rarity: average}
       - {form: '', game: both, name: relicanth, rarity: frequent}
       - {form: '', game: both, name: seadra, rarity: almost-never}
+- kalos-route-10:
+    main:
+      tall-grass:
+      - {form: '', game: both, name: eevee, rarity: almost-never}
+      - {form: '', game: y, name: electrike, rarity: rare}
+      - {form: '', game: both, name: emolga, rarity: almost-never}
+      - {form: '', game: both, name: golett, rarity: average}
+      - {form: '', game: both, name: hawlucha, rarity: average}
+      - {form: '', game: x, name: houndour, rarity: rare}
+      - {form: '', game: both, name: sigilyph, rarity: average}
+      - {form: '', game: both, name: snubbull, rarity: rare}
+      horde:
+      - {form: '', game: y, name: '{electrike: 5}', rarity: rare}
+      - {form: '', game: x, name: '{houndour: 5}', rarity: rare}
+      - {form: '', game: both, name: '{nosepass: 5}', rarity: frequent}
+      - {form: '', game: both, name: '{yanma: 5}', rarity: average}
