@@ -125,10 +125,24 @@
       - {form: '', game: x, name: plusle, rarity: almost-never}
       - {form: '', game: both, name: skiddo, rarity: average}
       horde:
-      - {form: '', game: both, name: '{gulpin: 5}', rarity: frequent}
-      - {form: '', game: y, name: '{minun: 4, plusle: 1}', rarity: rare}
-      - {form: '', game: x, name: '{minun: 1, plusle: 4}', rarity: rare}
-      - {form: '', game: both, name: '{scraggy: 5}', rarity: average}
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: gulpin}
+      - game: y
+        rarity: rare
+        species:
+        - {count: '4', form: '', name: minun}
+        - {count: '1', form: '', name: plusle}
+      - game: x
+        rarity: rare
+        species:
+        - {count: '4', form: '', name: plusle}
+        - {count: '1', form: '', name: minun}
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: scraggy}
 - kalos-route-7:
     main:
       tall-grass:
@@ -143,9 +157,18 @@
       - {form: '', game: x, name: swirlix, rarity: rare}
       - {form: '', game: both, name: volbeat, rarity: rare}
       horde:
-      - {form: '', game: both, name: '{hoppip: 5}', rarity: frequent}
-      - {form: '', game: both, name: '{psyduck: 5}', rarity: average}
-      - {form: '', game: both, name: '{roselia: 5}', rarity: rare}
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: hoppip}
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: psyduck}
+      - game: both
+        rarity: rare
+        species:
+        - {count: '5', form: '', name: roselia}
       yellow-flowers:
       - {form: '', game: both, name: croagunk, rarity: almost-never}
       - {form: '', game: both, name: ducklett, rarity: rare}
@@ -191,10 +214,24 @@
       - {form: '', game: both, name: spoink, rarity: rare}
       - {form: '', game: both, name: zangoose, rarity: rare}
       horde:
-      - {form: '', game: y, name: '{seviper: 4, zangoose: 1}', rarity: average}
-      - {form: '', game: both, name: '{taillow: 5}', rarity: rare}
-      - {form: '', game: both, name: '{wingull: 5}', rarity: frequent}
-      - {form: '', game: x, name: '{zangoose: 4, seviper: 1}', rarity: average}
+      - game: y
+        rarity: average
+        species:
+        - {count: '4', form: '', name: servine}
+        - {count: '1', form: '', name: zangoose}
+      - game: both
+        rarity: rare
+        species:
+        - {count: '5', form: '', name: taillow}
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: wingull}
+      - game: x
+        rarity: average
+        species:
+        - {count: '4', form: '', name: zangoose}
+        - {count: '1', form: '', name: servine}
       cracked-rock:
       - {form: '', game: both, name: binacle, rarity: average}
       - {form: '', game: both, name: dwebble, rarity: frequent}
@@ -290,7 +327,19 @@
       - {form: '', game: both, name: sigilyph, rarity: average}
       - {form: '', game: both, name: snubbull, rarity: rare}
       horde:
-      - {form: '', game: y, name: '{electrike: 5}', rarity: rare}
-      - {form: '', game: x, name: '{houndour: 5}', rarity: rare}
-      - {form: '', game: both, name: '{nosepass: 5}', rarity: frequent}
-      - {form: '', game: both, name: '{yanma: 5}', rarity: average}
+      - game: y
+        rarity: rare
+        species:
+        - {count: '5', form: '', name: electrike}
+      - game: x
+        rarity: rare
+        species:
+        - {count: '5', form: '', name: houndour}
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: nosepass}
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: yanma}
