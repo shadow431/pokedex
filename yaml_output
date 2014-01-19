@@ -997,3 +997,55 @@
       water-surface:
       - {form: '', game: both, name: floatzel, rarity: average}
       - {form: '', game: both, name: lombre, rarity: frequent}
+- kalos-victory-road:
+    main:
+      cave:
+      - {form: '', game: both, name: druddigon, rarity: average}
+      - {form: '', game: both, name: graveler, rarity: average}
+      - {form: '', game: both, name: gurdurr, rarity: average}
+      - {form: '', game: both, name: haunter, rarity: rare}
+      - {form: '', game: both, name: lickitung, rarity: rare}
+      - {form: '', game: both, name: zweilous, rarity: almost-never}
+      ambush-cave:
+      - {form: '', game: both, name: ariados, rarity: frequent}
+      - {form: '', game: both, name: graveler, rarity: frequent}
+      - {form: '', game: both, name: noibat, rarity: average}
+      ambush-aerial:
+      - {form: '', game: both, name: fearow, rarity: frequent}
+      - {form: '', game: both, name: hydreigon, rarity: almost-never}
+      - {form: '', game: both, name: skarmory, rarity: rare}
+      cracked-rock:
+      - {form: '', game: both, name: graveler, rarity: frequent}
+      - {form: '', game: both, name: shuckle, rarity: almost-never}
+      horde:
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: floatzel}
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: geodude}
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: graveler}
+      - game: both
+        rarity: rare
+        species:
+        - {count: '5', form: '', name: lickitung}
+      water-surface:
+      - {form: '', game: both, name: floatzel, rarity: average}
+      - {form: '', game: both, name: lombre, rarity: frequent}
+      - {form: '', game: both, name: poliwhirl, rarity: frequent}
+      old-rod:
+      - {form: '', game: both, name: poliwag, rarity: frequent}
+      good-rod:
+      - {form: blue-striped, game: x, name: basculin-blue-striped, rarity: frequent}
+      - {form: red-striped, game: y, name: basculin-red-striped, rarity: frequent}
+      - {form: '', game: both, name: poliwhirl, rarity: average}
+      super-rod:
+      - {form: blue-striped, game: y, name: basculin-blue-striped, rarity: average}
+      - {form: red-striped, game: x, name: basculin-red-striped, rarity: average}
+      - {form: '', game: both, name: poliwhirl, rarity: frequent}
+      - {form: '', game: both, name: poliwrath, rarity: almost-never}
