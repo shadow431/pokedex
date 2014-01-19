@@ -645,3 +645,21 @@
       - {form: blue-striped, game: y, name: basculin-blue-striped, rarity: average}
       - {form: red-striped, game: x, name: basculin-red-striped, rarity: average}
       - {form: '', game: both, name: poliwhirl, rarity: frequent}
+- lost-hotel:
+    main:
+      hotel:
+      - {form: '', game: both, name: electrode, rarity: average}
+      - {form: '', game: both, name: klefki, rarity: average}
+      - {form: '', game: both, name: litwick, rarity: average}
+      - {form: '', game: both, name: magneton, rarity: average}
+      - {form: '', game: both, name: pawniard, rarity: average}
+      trash-cans:
+      - {form: '', game: both, name: garbodor, rarity: rare}
+      - {form: '', game: both, name: rotom, rarity: rare}
+      - {form: fan, game: both, name: rotom, rarity: almost-never}
+      - {form: frost, game: both, name: rotom, rarity: almost-never}
+      - {form: heat, game: both, name: rotom, rarity: almost-never}
+      - {form: mow, game: both, name: rotom, rarity: almost-never}
+      - {form: wash, game: both, name: rotom, rarity: almost-never}
+      - {form: '', game: both, name: trubbish, rarity: frequent}
+
