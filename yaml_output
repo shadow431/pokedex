@@ -748,3 +748,43 @@
       - {form: '', game: both, name: delibird, rarity: frequent}
       - {form: '', game: both, name: sneasel, rarity: average}
       - {form: '', game: both, name: snover, rarity: average}
+- kalos-route-18:
+    main:
+      tall-grass:
+      - {form: '', game: both, name: durant, rarity: rare}
+      - {form: '', game: both, name: graveler, rarity: rare}
+      - {form: '', game: both, name: gurdurr, rarity: average}
+      - {form: '', game: both, name: heatmor, rarity: almost-never}
+      - {form: '', game: x, name: lairon, rarity: rare}
+      - {form: '', game: y, name: pupitar, rarity: rare}
+      - {form: '', game: both, name: sandslash, rarity: rare}
+      - {form: '', game: both, name: torkoal, rarity: average}
+      red-flowers:
+      - {form: '', game: both, name: durant, rarity: rare}
+      - {form: '', game: both, name: graveler, rarity: rare}
+      - {form: '', game: both, name: gurdurr, rarity: rare}
+      - {form: '', game: both, name: heatmor, rarity: almost-never}
+      - {form: '', game: x, name: lairon, rarity: average}
+      - {form: '', game: y, name: pupitar, rarity: average}
+      - {form: '', game: both, name: sandslash, rarity: average}
+      - {form: '', game: both, name: torkoal, rarity: rare}
+      horde:
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: durant}
+      - game: both
+        rarity: rare
+        species:
+        - {count: '4', form: '', name: durant}
+        - {count: '1', form: '', name: heatmor}
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: geodude}
+      cracked-rock:
+      - {form: '', game: both, name: graveler, rarity: frequent}
+      - {form: '', game: both, name: shuckle, rarity: almost-never}
+      shaking-bush:
+      - {form: '', game: both, name: durant, rarity: frequent}
+      - {form: '', game: both, name: heatmor, rarity: rare}
