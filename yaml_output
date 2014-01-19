@@ -741,3 +741,10 @@
       water-surface:
       - {form: '', game: both, name: floatzel, rarity: average}
       - {form: '', game: both, name: lombre, rarity: frequent}
+- kalos-route-17:
+    main:
+      deep-snow:
+      - {form: '', game: both, name: abomasnow, rarity: almost-never}
+      - {form: '', game: both, name: delibird, rarity: frequent}
+      - {form: '', game: both, name: sneasel, rarity: average}
+      - {form: '', game: both, name: snover, rarity: average}
