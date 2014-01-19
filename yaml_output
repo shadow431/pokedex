@@ -788,3 +788,34 @@
       shaking-bush:
       - {form: '', game: both, name: durant, rarity: frequent}
       - {form: '', game: both, name: heatmor, rarity: rare}
+- terminus-cave:
+    main:
+      cave:
+      - {form: '', game: both, name: durant, rarity: frequent}
+      - {form: '', game: both, name: graveler, rarity: average}
+      - {form: '', game: x, name: lairon, rarity: average}
+      - {form: '', game: y, name: pupitar, rarity: average}
+      - {form: '', game: both, name: sandslash, rarity: average}
+      horde:
+      - game: x
+        rarity: rare
+        species:
+        - {count: '5', form: '', name: aron}
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: durant}
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: geodude}
+      - game: y
+        rarity: rare
+        species:
+        - {count: '5', form: '', name: larvitar}
+      cracked-rock:
+      - {form: '', game: both, name: graveler, rarity: frequent}
+      - {form: '', game: both, name: shuckle, rarity: almost-never}
+      ambush:
+      - {form: '', game: both, name: ariados, rarity: frequent}
+      - {form: '', game: both, name: noibat, rarity: average}
