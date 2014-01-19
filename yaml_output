@@ -193,6 +193,11 @@
       - {form: '', game: y, name: spritzee, rarity: rare}
       - {form: '', game: x, name: swirlix, rarity: rare}
       - {form: '', game: both, name: voltorb, rarity: rare}
+- kalos-route-6:
+    main:
+      shaking-bush:
+      - {form: '', game: both, name: venipede, rarity: frequent}
+      - {form: '', game: both, name: audino, rarity: rare}
 - kalos-route-8:
     main:
       tall-grass:
