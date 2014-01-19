@@ -343,3 +343,43 @@
         rarity: average
         species:
         - {count: '5', form: '', name: yanma}
+      yellow-flowers:
+      - {form: '', game: both, name: eevee, rarity: average}
+      - {form: '', game: y, name: electrike, rarity: average}
+      - {form: '', game: both, name: emolga, rarity: almost-never}
+      - {form: '', game: both, name: golett, rarity: rare}
+      - {form: '', game: both, name: hawlucha, rarity: almost-never}
+      - {form: '', game: x, name: houndour, rarity: average}
+      - {form: '', game: both, name: sigilyph, rarity: rare}
+      - {form: '', game: both, name: snubbull, rarity: average}
+- kalos-route-11:
+    main:
+      horde:
+      - game: y
+        rarity: frequent
+        species:
+        - {count: '4', form: '', name: nidoran-f}
+        - {count: '1', form: '', name: nidoran-m}
+      - game: x
+        rarity: frequent
+        species:
+        - {count: '4', form: '', name: nidoran-m}
+        - {count: '1', form: '', name: nidoran-f}
+      - game: both
+        rarity: rare
+        species:
+        - {count: '5', form: '', name: starly}
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: stunky}
+      tall-grass:
+      - {form: '', game: both, name: chingling, rarity: rare}
+      - {form: '', game: both, name: dedenne, rarity: almost-never}
+      - {form: '', game: both, name: hariyama, rarity: average}
+      - {form: '', game: both, name: nidorina, rarity: almost-never}
+      - {form: '', game: both, name: nidorino, rarity: rare}
+      - {form: '', game: x, name: sawk, rarity: average}
+      - {form: '', game: both, name: staravia, rarity: average}
+      - {form: '', game: both, name: stunky, rarity: rare}
+      - {form: '', game: y, name: throh, rarity: average}
