@@ -493,3 +493,15 @@
       cracked-rock:
       - {form: '', game: both, name: graveler, rarity: frequent}
       - {form: '', game: both, name: slugma, rarity: average}
+- laverre-city:
+    main:
+      old-rod:
+      - {form: '', game: both, name: poliwag, rarity: frequent}
+      good-rod:
+      - {form: blue-striped, game: x, name: basculin-blue-striped, rarity: frequent}
+      - {form: red-striped, game: y, name: basculin-red-striped, rarity: frequent}
+      - {form: '', game: both, name: poliwhirl, rarity: average}
+      super-rod:
+      - {form: blue-striped, game: y, name: basculin-blue-striped, rarity: average}
+      - {form: red-striped, game: x, name: basculin-red-striped, rarity: average}
+      - {form: '', game: both, name: poliwhirl, rarity: frequent}
