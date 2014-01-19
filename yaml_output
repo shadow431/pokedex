@@ -198,6 +198,26 @@
       shaking-bush:
       - {form: '', game: both, name: venipede, rarity: frequent}
       - {form: '', game: both, name: audino, rarity: rare}
+- connecting-cave:
+    main:
+      cave:
+      - {form: '', game: both, name: axew, rarity: rare}
+      - {form: '', game: both, name: meditite, rarity: average}
+      - {form: '', game: both, name: whismur, rarity: average}
+      - {form: '', game: both, name: zubat, rarity: average}
+      horde:
+      - game: both
+        rarity: rare
+        species:
+        - {count: '5', form: '', name: axew}
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: whismur}
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: zubat}
 - kalos-route-8:
     main:
       tall-grass:
@@ -388,6 +408,33 @@
       - {form: '', game: both, name: staravia, rarity: average}
       - {form: '', game: both, name: stunky, rarity: rare}
       - {form: '', game: y, name: throh, rarity: average}
+- reflection-cave:
+    main:
+      cave:
+      - {form: '', game: both, name: carbink, rarity: rare}
+      - {form: '', game: both, name: chingling, rarity: rare}
+      - {form: '', game: both, name: mr-mime, rarity: average}
+      - {form: '', game: both, name: roggenrola, rarity: average}
+      - {form: '', game: both, name: sableye, rarity: almost-never}
+      - {form: '', game: both, name: solosis, rarity: average}
+      - {form: '', game: both, name: wobbuffet, rarity: rare}
+      ambush:
+      - {form: '', game: both, name: woobat, rarity: frequent}
+      - {form: '', game: both, name: ferroseed, rarity: average}
+      horde:
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: mime-jr}
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: roggenrola}
+      - game: both
+        rarity: rare
+        species:
+        - {count: '4', form: '', name: roggenrola}
+        - {count: '1', form: '', name: carbink}
 - shalour-city:
     main:
       water-surface:
