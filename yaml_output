@@ -484,3 +484,12 @@
       - {form: '', game: both, name: alomomola, rarity: frequent}
       - {form: '', game: both, name: lanturn, rarity: almost-never}
       - {form: '', game: both, name: octillery, rarity: average}
+- kalos-route-13:
+    main:
+      desert:
+      - {form: '', game: both, name: dugtrio, rarity: frequent}
+      - {form: '', game: both, name: gible, rarity: average}
+      - {form: '', game: both, name: trapinch, rarity: frequent}
+      cracked-rock:
+      - {form: '', game: both, name: graveler, rarity: frequent}
+      - {form: '', game: both, name: slugma, rarity: average}
