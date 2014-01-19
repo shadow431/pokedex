@@ -892,3 +892,33 @@
     main:
       trade:
       - {form: '', game: both, name: bisharp, rarity: frequent}
+- kalos-route-20:
+    main:
+      tall-grass:
+      - {form: '', game: both, name: amoonguss, rarity: average}
+      - {form: '', game: both, name: gothorita, rarity: rare}
+      - {form: '', game: both, name: jigglypuff, rarity: average}
+      - {form: '', game: both, name: noctowl, rarity: average}
+      - {form: '', game: both, name: trevenant, rarity: rare}
+      - {form: '', game: both, name: zoroark, rarity: almost-never}
+      red-flowers:
+      - {form: '', game: both, name: amoonguss, rarity: average}
+      - {form: '', game: both, name: gothorita, rarity: average}
+      - {form: '', game: both, name: jigglypuff, rarity: rare}
+      - {form: '', game: both, name: noctowl, rarity: rare}
+      - {form: '', game: both, name: trevenant, rarity: average}
+      - {form: '', game: both, name: zoroark, rarity: almost-never}
+       horde:
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: foongus}
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: trevenant}
+      - game: both
+        rarity: rare
+        species:
+        - {count: '4', form: '', name: trevenant}
+        - {count: '1', form: '', name: sudowoodo}
