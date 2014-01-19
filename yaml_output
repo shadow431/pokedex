@@ -510,7 +510,7 @@
       cracked-rock:
       - {form: '', game: both, name: binacle, rarity: average}
       - {form: '', game: both, name: dwebble, rarity: frequent}
-       horde:
+      horde:
       - game: both
         rarity: rare
         species:
@@ -908,7 +908,7 @@
       - {form: '', game: both, name: noctowl, rarity: rare}
       - {form: '', game: both, name: trevenant, rarity: average}
       - {form: '', game: both, name: zoroark, rarity: almost-never}
-       horde:
+      horde:
       - game: both
         rarity: frequent
         species:
