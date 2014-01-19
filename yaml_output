@@ -662,4 +662,47 @@
       - {form: mow, game: both, name: rotom, rarity: almost-never}
       - {form: wash, game: both, name: rotom, rarity: almost-never}
       - {form: '', game: both, name: trubbish, rarity: frequent}
-
+- kalos-route-16:
+    main:
+      yellow-flowers:
+      - {form: '', game: both, name: floatzel, rarity: average}
+      - {form: '', game: both, name: foongus, rarity: average}
+      - {form: '', game: both, name: klefki, rarity: rare}
+      - {form: '', game: both, name: phantump, rarity: rare}
+      - {form: '', game: both, name: skorupi, rarity: average}
+      - {form: '', game: both, name: weepinbell, rarity: average}
+      horde:
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: foongus}
+      - game: both
+        rarity: rare
+        species:
+        - {count: '5', form: '', name: klefki}
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: murkrow}
+      very-tall-grass:
+      - {form: '', game: both, name: foongus, rarity: average}
+      - {form: '', game: both, name: klefki, rarity: rare}
+      - {form: '', game: both, name: phantump, rarity: rare}
+      - {form: average, game: both, name: pumpkaboo-average, rarity: average}
+      - {form: large, game: both, name: pumpkaboo-large, rarity: rare}
+      - {form: small, game: both, name: pumpkaboo-small, rarity: average}
+      - {form: super, game: both, name: pumpkaboo-super, rarity: almost-never}
+      water-surface:
+      - {form: '', game: both, name: floatzel, rarity: average}
+      - {form: '', game: both, name: lombre, rarity: frequent}
+      old-rod:
+      - {form: '', game: both, name: poliwag, rarity: frequent}
+    main:
+      good-rod:
+      - {form: blue-striped, game: x, name: basculin-blue-striped, rarity: frequent}
+      - {form: red-striped, game: y, name: basculin-red-striped, rarity: frequent}
+      - {form: '', game: both, name: poliwhirl, rarity: average}
+      super-rod:
+      - {form: blue-striped, game: y, name: basculin-blue-striped, rarity: average}
+      - {form: red-striped, game: x, name: basculin-red-striped, rarity: average}
+      - {form: '', game: both, name: poliwhirl, rarity: frequent}
