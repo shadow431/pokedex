@@ -888,3 +888,7 @@
       - {form: '', game: both, name: quagsire, rarity: frequent}
       - {form: '', game: both, name: sliggoo, rarity: rare}
       - {form: '', game: both, name: stunfisk, rarity: average}
+- snowbelle-city:
+    main:
+      trade:
+      - {form: '', game: both, name: bisharp, rarity: frequent}
