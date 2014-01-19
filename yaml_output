@@ -545,6 +545,50 @@
       cracked-rock:
       - {form: '', game: both, name: graveler, rarity: frequent}
       - {form: '', game: both, name: slugma, rarity: average}
+- kalos-route-14:
+    main:
+      tall-grass:
+      - {form: '', game: both, name: carnivine, rarity: rare}
+      - {form: '', game: both, name: goomy, rarity: rare}
+      - {form: '', game: both, name: haunter, rarity: almost-never}
+      - {form: '', game: both, name: karrablast, rarity: rare}
+      - {form: '', game: both, name: quagsire, rarity: rare}
+      - {form: '', game: both, name: shelmet, rarity: rare}
+      - {form: '', game: both, name: skorupi, rarity: average}
+      - {form: '', game: both, name: weepinbell, rarity: average}
+      swamp:
+      - {form: '', game: both, name: carnivine, rarity: almost-never}
+      - {form: '', game: both, name: goomy, rarity: average}
+      - {form: '', game: both, name: haunter, rarity: almost-never}
+      - {form: '', game: both, name: karrablast, rarity: rare}
+      - {form: '', game: both, name: quagsire, rarity: average}
+      - {form: '', game: both, name: shelmet, rarity: rare}
+      - {form: '', game: both, name: stunfisk, rarity: average}
+      horde:
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: bellsprout}
+      - game: both
+        rarity: rare
+        species:
+        - {count: '5', form: '', name: ekans}
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: skorupi}
+      old-rod:
+      - {form: '', game: both, name: poliwag, rarity: frequent}
+      good-rod:
+      - {form: '', game: both, name: barboach, rarity: frequent}
+      - {form: '', game: both, name: poliwhirl, rarity: average}
+      super-rod:
+      - {form: '', game: both, name: poliwhirl, rarity: frequent}
+      - {form: '', game: both, name: whiscash, rarity: average}
+      water-surface:
+      - {form: '', game: both, name: goomy, rarity: rare}
+      - {form: '', game: both, name: quagsire, rarity: frequent}
+      - {form: '', game: both, name: stunfisk, rarity: average}
 - laverre-city:
     main:
       old-rod:
