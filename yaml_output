@@ -967,3 +967,33 @@
       trash-can:
       - {form: '', game: both, name: garbodor, rarity: frequent}
       - {form: '', game: both, name: banette, rarity: rare}
+- kalos-route-21:
+    main:
+      purple-flowers:
+      - {form: '', game: both, name: altaria, rarity: average}
+      - {form: '', game: both, name: floatzel, rarity: frequent}
+      - {form: '', game: both, name: scyther, rarity: rare}
+      - {form: '', game: both, name: spinda, rarity: average}
+      - {form: '', game: both, name: ursaring, rarity: rare}
+      horde:
+      - game: both
+        rarity: rare
+        species:
+        - {count: '5', form: '', name: scyther}
+      - game: both
+        rarity: frequent
+        species:
+        - {count: '5', form: '', name: spinda}
+      - game: both
+        rarity: average
+        species:
+        - {count: '5', form: '', name: swablu}
+      red-flowers:
+      - {form: '', game: both, name: altaria, rarity: average}
+      - {form: '', game: both, name: floatzel, rarity: rare}
+      - {form: '', game: both, name: scyther, rarity: rare}
+      - {form: '', game: both, name: spinda, rarity: average}
+      - {form: '', game: both, name: ursaring, rarity: frequent}
+      water-surface:
+      - {form: '', game: both, name: floatzel, rarity: average}
+      - {form: '', game: both, name: lombre, rarity: frequent}
